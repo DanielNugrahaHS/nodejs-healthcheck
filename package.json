@@ -1,0 +1,15 @@
+{
+    "name": "nodejs-testing-for-healthcheck-uptime",
+    "version": "1.0.0",
+    "description": "Testing Healthcheck Uptime",
+    "author": "Daniel Nugraha H.S",
+    "main": "hello.js",
+    "keywords": [
+        "nodejs",
+        "bootstrap",
+        "express"
+    ],
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
